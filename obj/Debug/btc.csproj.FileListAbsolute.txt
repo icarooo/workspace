@@ -1,0 +1,12 @@
+c:\users\icaro.rodrigues\documents\visual studio 2013\Projects\btc\bin\Debug\btc.exe.config
+c:\users\icaro.rodrigues\documents\visual studio 2013\Projects\btc\bin\Debug\btc.exe
+c:\users\icaro.rodrigues\documents\visual studio 2013\Projects\btc\bin\Debug\btc.pdb
+c:\users\icaro.rodrigues\documents\visual studio 2013\Projects\btc\bin\Debug\Newtonsoft.Json.dll
+c:\users\icaro.rodrigues\documents\visual studio 2013\Projects\btc\bin\Debug\RestSharp.dll
+c:\users\icaro.rodrigues\documents\visual studio 2013\Projects\btc\bin\Debug\Newtonsoft.Json.xml
+c:\users\icaro.rodrigues\documents\visual studio 2013\Projects\btc\bin\Debug\RestSharp.xml
+c:\users\icaro.rodrigues\documents\visual studio 2013\Projects\btc\obj\Debug\btc.exe
+c:\users\icaro.rodrigues\documents\visual studio 2013\Projects\btc\obj\Debug\btc.pdb
+C:\Users\icaro.rodrigues\Documents\Visual Studio 2013\Projects\btc\obj\Debug\btc.csprojAssemblyReference.cache
+C:\Users\icaro.rodrigues\Documents\Visual Studio 2013\Projects\btc\obj\Debug\btc.csproj.CoreCompileInputs.cache
+C:\Users\icaro.rodrigues\Documents\Visual Studio 2013\Projects\btc\obj\Debug\btc.csproj.CopyComplete
